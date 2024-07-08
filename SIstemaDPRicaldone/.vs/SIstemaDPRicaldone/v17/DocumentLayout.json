@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\DELL_3340\\Desktop\\Vale\\Colegio\\2024\\T\u00E9cnicas\\EXPO\\SistemaDPRicaldone\\SIstemaDPRicaldone\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{E44A1082-5D5C-4E57-8644-EDEC4F30A813}|SIstemaDPRicaldone.csproj|c:\\users\\dell_3340\\desktop\\vale\\colegio\\2024\\t\u00E9cnicas\\expo\\sistemadpricaldone\\sistemadpricaldone\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E44A1082-5D5C-4E57-8644-EDEC4F30A813}|SIstemaDPRicaldone.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{E44A1082-5D5C-4E57-8644-EDEC4F30A813}|SIstemaDPRicaldone.csproj|c:\\users\\dell_3340\\desktop\\vale\\colegio\\2024\\t\u00E9cnicas\\expo\\sistemadpricaldone\\sistemadpricaldone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
       "RelativeMoniker": "D:0:0:{E44A1082-5D5C-4E57-8644-EDEC4F30A813}|SIstemaDPRicaldone.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
     }
@@ -19,6 +23,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\DELL_3340\\Desktop\\Vale\\Colegio\\2024\\T\u00E9cnicas\\EXPO\\SistemaDPRicaldone\\SIstemaDPRicaldone\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\DELL_3340\\Desktop\\Vale\\Colegio\\2024\\T\u00E9cnicas\\EXPO\\SistemaDPRicaldone\\SIstemaDPRicaldone\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:14:18.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Form1.cs [Dise\u00F1o]",
               "DocumentMoniker": "C:\\Users\\DELL_3340\\Desktop\\Vale\\Colegio\\2024\\T\u00E9cnicas\\EXPO\\SistemaDPRicaldone\\SIstemaDPRicaldone\\Form1.cs",
               "RelativeDocumentMoniker": "Form1.cs",
