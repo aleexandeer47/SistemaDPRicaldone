@@ -1,0 +1,36 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\DELL_3340\\Desktop\\Vale\\Colegio\\2024\\T\u00E9cnicas\\EXPO\\SistemaDPRicaldone\\SIstemaDPRicaldone\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E44A1082-5D5C-4E57-8644-EDEC4F30A813}|SIstemaDPRicaldone.csproj|c:\\users\\dell_3340\\desktop\\vale\\colegio\\2024\\t\u00E9cnicas\\expo\\sistemadpricaldone\\sistemadpricaldone\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{E44A1082-5D5C-4E57-8644-EDEC4F30A813}|SIstemaDPRicaldone.csproj|solutionrelative:form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Dise\u00F1o]",
+              "DocumentMoniker": "C:\\Users\\DELL_3340\\Desktop\\Vale\\Colegio\\2024\\T\u00E9cnicas\\EXPO\\SistemaDPRicaldone\\SIstemaDPRicaldone\\Form1.cs",
+              "RelativeDocumentMoniker": "Form1.cs",
+              "ToolTip": "C:\\Users\\DELL_3340\\Desktop\\Vale\\Colegio\\2024\\T\u00E9cnicas\\EXPO\\SistemaDPRicaldone\\SIstemaDPRicaldone\\Form1.cs [Dise\u00F1o]",
+              "RelativeToolTip": "Form1.cs [Dise\u00F1o]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-08T23:01:54.121Z",
+              "EditorCaption": " [Dise\u00F1o]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
